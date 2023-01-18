@@ -1,0 +1,7 @@
+Other tutorials saved to pico
+
+To set a program as the default boot program, save to pico as "main.py"
+
+To sest IO pins, use "GPn" numbers instead of actual layout pin numbers
+
+https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html#sdk-setup
